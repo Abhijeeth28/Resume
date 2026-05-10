@@ -1,1 +1,11 @@
-
+{
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "yaml": "^2.3.1",
+    "pdfkit": "^0.15.0"
+  }
+}
