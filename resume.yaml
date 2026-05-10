@@ -1,0 +1,46 @@
+name: Abhijeeth Modi
+
+title: Senior Backend Engineer
+
+contact:
+  email: modiabhijeeth@gmail.com
+  phone: "+91-9381120046"
+  linkedin: linkedin.com/in/abhijeethmodi
+  github: github.com/Abhijeeth28
+
+summary: >
+  Senior Backend Engineer with 3.8+ years of experience building scalable
+  event-driven systems, microservices, and AI-integrated backend platforms.
+  Experienced in Node.js, MongoDB, Redis, RabbitMQ, and LLM integrations.
+
+skills:
+  - Node.js
+  - JavaScript
+  - TypeScript
+  - MongoDB
+  - Redis
+  - RabbitMQ
+  - Microservices
+  - WebSockets
+  - AWS
+  - Docker
+  - CI/CD
+  - OpenSearch
+  - LLM Integration
+
+experience:
+  - company: Kore.ai
+    role: Senior Software Engineer
+    duration: Aug 2022 - Present
+
+    achievements:
+      - Led backend development for high-scale event-driven campaign systems
+      - Integrated LLMs for summarization and sentiment analysis
+      - Built scalable RabbitMQ async processing pipelines
+      - Developed REST APIs for large-scale ingestion systems
+      - Implemented observability using Grafana and Prometheus
+
+education:
+  college: IIEST Shibpur
+  degree: B.Tech Electronics and Telecommunication Engineering
+  cgpa: 8.67
